@@ -1,16 +1,12 @@
 {
-  "name": "BuenaBarraca",
-  "description": "The ultimate MalaBarraca web app",
-  "version": "0.0.1",
-  "homepage": "https://github.com/lluiscampos/buena-barraca",
-  "author": {
-    "name": "Lluis M Campos",
-    "url": "https://github.com/lluiscampos"
-  },
+  "name": "buenabarraca",
+  "version": "0.0.0",
   "dependencies": {
-    "backbone": "latest",
-    "jquery": "latest",
-    "bootstrap": "latest",
-    "font-awesome": "latest"
-  }
+    "sass-bootstrap": "~3.0.2",
+    "jquery": "~2.1.0",
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.0",
+    "modernizr": "~2.7.1"
+  },
+  "devDependencies": {}
 }
